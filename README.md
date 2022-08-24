@@ -19,3 +19,10 @@ test/
   README.md
 code/
   __init__.py  // may change per language; 
+
+// Contributors 
+Jayraj Mulani
+Yashasya Shah
+Harshil Sanghvi
+Dhrumil Shah
+Anisha Chazhoor
