@@ -1,0 +1,5 @@
+language: python
+cache: pip
+python:
+  # Python versions
+  - "3.6"
