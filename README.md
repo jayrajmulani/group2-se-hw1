@@ -23,6 +23,6 @@ code/
 // Contributors 
 Jayraj Mulani
 Yashasya Shah
-Harshil Sanghvi
+Harshil Sanghavi
 Dhrumil Shah
 Anisha Chazhoor
