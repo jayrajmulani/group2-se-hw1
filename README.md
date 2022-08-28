@@ -44,13 +44,16 @@ README.md
 code/
 **init**.py // may change per language;
 
-// Contributors
-Jayraj Mulani
-Yashasya Shah
-Harshil Sanghvi
-Dhrumil Shah
-Anisha Chazhoor
-s
+## Contributors
+1. [Jayraj Mulani](https://github.com/jayrajmulani)
+2. [Yashasya Shah](https://github.com/Yashasya)
+3. [Harshil Sanghvi](https://github.com/Harshil47)
+4. [Dhrumil Shah](https://github.com/Dhrumil0310)
+5. [Anisha Chazhoor](https://github.com/anishasc99)
+
+
+
+
 This repo aims to answer the question of what makes a repo good. An inefficient repository reduces the chance of understandability. A clean repo promotes viewability and reusability.
 
 Let's take a look at some examples of "not so good" repos:
