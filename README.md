@@ -1,4 +1,4 @@
-![build](https://github.com/jayrajmulani/se-hw1/action-a/workflows/main.yml/badge.svg)
+![build](https://github.com/jayrajmulani/se-hw1/workflows/main.yml/badge.svg)
 
 # se-hw1
 A "good" repository for CSC 510 - Software Engineering - Homework 1
