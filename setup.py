@@ -5,7 +5,7 @@ setup(
     version='0.1',
     description='Module for completing HW 1',
     author='Harshil Sanghavi',
-    author_email='hsangha@ncsu.edu',
+    author_email='harshiltsan9@gmail.com',
     url='https://https://github.com/txt/se22/blob/main/docs/hw1.md',
     packages=[],
       long_description="""\
