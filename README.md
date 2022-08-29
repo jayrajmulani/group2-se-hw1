@@ -21,7 +21,7 @@ This repo aims to answer the question of what makes a repo good. An inefficient 
 2. [Getting started](#getting-started)
 3. [License](#license)
 4. [Contributors](#contributors)
-5. [Acknowledgement](#acknoledgements)
+5. [Acknowledgements](#acknoledgements)
 
 
 ## Background
