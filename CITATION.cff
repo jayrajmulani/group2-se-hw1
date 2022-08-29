@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mulani"
+  given-names: "Jayraj"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Shah"
+  given-names: "Yashasya"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Sanghvi"
+  given-names: "Harshil"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Shah"
+  given-names: "Dhrumil"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Chazhoor"
+  given-names: "Anisha"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Repository is the new Resume"
+version: 1.0
+doi: 10.5281/zenodo.7032487 
+date-released: August 29th 2022
+url: "https://github.com/jayrajmulani/group2-se-hw1"
