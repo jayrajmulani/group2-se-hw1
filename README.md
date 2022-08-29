@@ -2,12 +2,12 @@
 
 
 
-# A Good Repo
+# Repository is the new Resume
 
 [![License](https://img.shields.io/github/license/jayrajmulani/group2-se-hw1)](https://github.com/jayrajmulani/group2-se-hw1/blob/main/LICENSE)
 [![Build](https://github.com/jayrajmulani/group2-se-hw1/actions/workflows/python-auto-test.yml/badge.svg)](https://github.com/jayrajmulani/group2-se-hw1/actions/workflows/python-auto-test.yml)
 [![Travis](https://app.travis-ci.com/jayrajmulani/group2-se-hw1.svg?branch=master)](https://app.travis-ci.com/github/jayrajmulani/group2-se-hw1/pull_requests)
-[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 ![Repo size](https://img.shields.io/github/repo-size/jayrajmulani/group2-se-hw1)
 [![Contributors](https://img.shields.io/github/contributors/jayrajmulani/group2-se-hw1.svg)](https://github.com/jayrajmulani/group2-se-hw1/graphs/contributors)
 
@@ -21,7 +21,6 @@ This repo aims to answer the question of what makes a repo good. An inefficient 
 2. [Getting started](#getting-started)
 3. [License](#license)
 4. [Contributors](#contributors)
-5. [Acknowledgement](#acknoledgements)
 
 
 ## Background
