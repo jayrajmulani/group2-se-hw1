@@ -7,7 +7,7 @@
 [![Travis](https://app.travis-ci.com/jayrajmulani/group2-se-hw1.svg?branch=main)](https://app.travis-ci.com/github/jayrajmulani/group2-se-hw1/pull_requests)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 ![Repo size](https://img.shields.io/github/repo-size/jayrajmulani/group2-se-hw1)
-[![Contributors](https://img.shields.io/github/contributors/jayrajmulani/group2-se-hw1.svg)](https://github.com/jayrajmulani/group2-se-hw1/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/jayrajmulani/group2-se-hw1.svg)](https://github.com/jayrajmulani/group2-se-hw1/graphs/contributors) [![DOI](https://zenodo.org/badge/527647386.svg)](https://zenodo.org/badge/latestdoi/527647386)
 
 This repo aims to answer the question of what makes a repo good. An inefficient repository reduces understandability. A clean repo promotes `viewability` and `reusability`.
 
