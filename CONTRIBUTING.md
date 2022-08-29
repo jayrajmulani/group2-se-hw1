@@ -12,3 +12,8 @@ We as contributors and maintainers promise to ensure that everyone who participa
 
 * Cooperating and collaborating with others.
 * Keeping an open mindset and welcome new ideas.
+* Treat all collaborators with respect and use appropriate language while commiting or raising issues.
+
+# Commiting rules
+
+We expect that you will write appropriate commit messages that give enough information about what the commit is about so that it is easier to understand for other developers.
